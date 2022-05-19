@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Queue;
 
 public class ToysForChristmas {
-
     private final List<Edge>[] graph;
     private final int toys;
 
